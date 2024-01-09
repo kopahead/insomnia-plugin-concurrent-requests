@@ -1,0 +1,16 @@
+{
+  "name": "insomnia-plugin-concurrent-requests",
+  "version": "1.0.1",
+  "description": "Perform concurrent requests",
+  "license": "MIT",
+  "main": "./src/plugin.js",
+  "author": "Elvis Magagula",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/kopahead/insomnia-plugin-concurrent-requests"
+  },
+  "insomnia": {
+      "name": "concurrent-requests",
+      "description": "Perform concurrent requests"
+  }
+}
